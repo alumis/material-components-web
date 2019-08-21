@@ -221,7 +221,7 @@ MDC Web components expose Sass mixins and functions to help customize properties
 You can access the Sass sources for a component in the similarly named `scss` file at its package root:
 
 ```scss
-@import "@material/button/mdc-button";
+@import "../mdc-button/mdc-button";
 ```
 
 In the case of `@material/button`, for example, there are several mixins that allow you to customize specific button
@@ -258,7 +258,7 @@ $mdc-theme-primary: #9c27b0;
 $mdc-theme-secondary: #ffab40;
 $mdc-theme-background: #fff;
 
-@import "@material/theme/mdc-theme";
+@import "../mdc-theme/mdc-theme";
 ```
 
 The correct text colors will automatically be calculated based on the provided theme colors.

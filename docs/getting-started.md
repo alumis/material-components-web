@@ -163,7 +163,7 @@ npm install @material/button
 We need to tell our `app.scss` to import the Sass files for `@material/button`. We can also use Sass mixins to customize the button. Replace your “hello world” version of `app.scss` with this code:
 
 ```scss
-@import "@material/button/mdc-button";
+@import "../mdc-button/mdc-button";
 
 .foo-button {
   @include mdc-button-ink-color(teal);

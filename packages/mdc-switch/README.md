@@ -53,7 +53,7 @@ npm install @material/switch
 ### Styles
 
 ```scss
-@import "@material/switch/mdc-switch";
+@import "../mdc-switch/mdc-switch";
 ```
 
 ### JavaScript Instantiation

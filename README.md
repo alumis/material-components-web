@@ -83,7 +83,7 @@ Sample usage of text field component. Please see [MDC Textfield](packages/mdc-te
 Load styles required for text field component.
 
 ```scss
-@import "@material/textfield/mdc-text-field";
+@import "../mdc-textfield/mdc-text-field";
 ```
 
 #### JavaScript

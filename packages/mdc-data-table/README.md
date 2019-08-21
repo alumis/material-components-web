@@ -32,8 +32,8 @@ npm install @material/data-table
 ### Styles
 
 ```scss
-@import "@material/checkbox/mdc-checkbox"; // Required only for data table with row selection.
-@import "@material/data-table/mdc-data-table";
+@import "../mdc-checkbox/mdc-checkbox"; // Required only for data table with row selection.
+@import "../mdc-data-table/mdc-data-table";
 ```
 
 > *NOTE*: Styles for any components you intend to include within data-table (e.g. Checkboxes, Buttons etc.) must be

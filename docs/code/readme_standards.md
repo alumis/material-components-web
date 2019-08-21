@@ -30,7 +30,7 @@ In the 'Styles' subsection, include any imports and mixin invocations necessary 
 ### Styles
 
 ```scss
-@import "@material/button/mdc-button";
+@import "../mdc-button/mdc-button";
 
 // Include necessary mixin invocations here
 ```

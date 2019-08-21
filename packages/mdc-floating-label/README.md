@@ -38,7 +38,7 @@ npm install @material/floating-label
 ### Styles
 
 ```scss
-@import "@material/floating-label/mdc-floating-label";
+@import "../mdc-floating-label/mdc-floating-label";
 ```
 
 ### JavaScript Instantiation

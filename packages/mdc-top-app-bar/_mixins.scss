@@ -20,12 +20,12 @@
 // THE SOFTWARE.
 //
 
-@import "@material/animation/variables";
-@import "@material/ripple/mixins";
-@import "@material/theme/variables"; // for mdc-theme-accessible-ink-color
-@import "@material/theme/mixins";
-@import "@material/shape/mixins";
-@import "@material/shape/functions";
+@import "../mdc-animation/variables";
+@import "../mdc-ripple/mixins";
+@import "../mdc-theme/variables"; // for mdc-theme-accessible-ink-color
+@import "../mdc-theme/mixins";
+@import "../mdc-shape/mixins";
+@import "../mdc-shape/functions";
 @import "./variables";
 
 //

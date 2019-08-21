@@ -54,7 +54,7 @@ However, you can also apply elevation to specific components using `mdc-elevatio
 ### Styles
 
 ```scss
-@import "@material/elevation/mdc-elevation";
+@import "../mdc-elevation/mdc-elevation";
 ```
 
 ## Style Customization

@@ -18,19 +18,19 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
-@import "@material/animation/functions";
-@import "@material/elevation/mixins";
-@import "@material/elevation/variables";
-@import "@material/feature-targeting/functions";
-@import "@material/feature-targeting/mixins";
-@import "@material/ripple/mixins";
-@import "@material/ripple/variables";
-@import "@material/theme/functions";
-@import "@material/theme/mixins";
-@import "@material/shape/mixins";
-@import "@material/shape/functions";
-@import "@material/rtl/mixins";
-@import "@material/typography/mixins";
+@import "../mdc-animation/functions";
+@import "../mdc-elevation/mixins";
+@import "../mdc-elevation/variables";
+@import "../mdc-feature-targeting/functions";
+@import "../mdc-feature-targeting/mixins";
+@import "../mdc-ripple/mixins";
+@import "../mdc-ripple/variables";
+@import "../mdc-theme/functions";
+@import "../mdc-theme/mixins";
+@import "../mdc-shape/mixins";
+@import "../mdc-shape/functions";
+@import "../mdc-rtl/mixins";
+@import "../mdc-typography/mixins";
 @import "./variables";
 
 @mixin mdc-fab-core-styles($query: mdc-feature-all()) {

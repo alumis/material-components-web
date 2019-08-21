@@ -20,16 +20,16 @@
 // THE SOFTWARE.
 //
 
-@import "@material/elevation/mixins";
-@import "@material/feature-targeting/functions";
-@import "@material/feature-targeting/mixins";
-@import "@material/ripple/mixins";
-@import "@material/rtl/mixins";
-@import "@material/theme/functions";
-@import "@material/theme/mixins";
-@import "@material/typography/mixins";
-@import "@material/shape/mixins";
-@import "@material/shape/functions";
+@import "../mdc-elevation/mixins";
+@import "../mdc-feature-targeting/functions";
+@import "../mdc-feature-targeting/mixins";
+@import "../mdc-ripple/mixins";
+@import "../mdc-rtl/mixins";
+@import "../mdc-theme/functions";
+@import "../mdc-theme/mixins";
+@import "../mdc-typography/mixins";
+@import "../mdc-shape/mixins";
+@import "../mdc-shape/functions";
 @import "./variables";
 
 @mixin mdc-button-core-styles($query: mdc-feature-all()) {

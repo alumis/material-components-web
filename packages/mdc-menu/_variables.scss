@@ -20,8 +20,8 @@
 // THE SOFTWARE.
 //
 
-@import "@material/theme/mixins";
-@import "@material/theme/variables";
+@import "../mdc-theme/mixins";
+@import "../mdc-theme/variables";
 
 $mdc-menu-ink-color: rgba(mdc-theme-prop-value(on-surface), mdc-theme-text-emphasis(high)) !default;
 

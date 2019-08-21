@@ -55,7 +55,7 @@ npm install @material/list
 ### Styles
 
 ```scss
-@import "@material/list/mdc-list";
+@import "../mdc-list/mdc-list";
 ```
 
 ### JavaScript

@@ -20,8 +20,8 @@
 // THE SOFTWARE.
 //
 
-@import "@material/theme/mixins";
-@import "@material/theme/variables";
+@import "../mdc-theme/mixins";
+@import "../mdc-theme/variables";
 
 $mdc-card-action-icon-color: rgba(mdc-theme-prop-value(on-surface), mdc-theme-text-emphasis(medium)) !default;
 $mdc-card-outline-color: mix(mdc-theme-prop-value(on-surface), mdc-theme-prop-value(surface), 12%) !default;

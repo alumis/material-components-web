@@ -64,7 +64,7 @@ However, it is highly recommended to install Material Components for the web via
     Import the Sass files into your application, and use Sass mixins to customize components:
 
     ```scss
-    @import "@material/button/mdc-button";
+    @import "../mdc-button/mdc-button";
 
     .foo-button {
       @include mdc-button-ink-color(teal);

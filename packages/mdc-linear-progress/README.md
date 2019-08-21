@@ -54,7 +54,7 @@ npm install @material/linear-progress
 
 ### Styles
 ```scss
-@import "@material/linear-progress/mdc-linear-progress";
+@import "../mdc-linear-progress/mdc-linear-progress";
 ```
 
 ### JavaScript Instantiation

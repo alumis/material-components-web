@@ -68,8 +68,8 @@ However, you can also use SVG, [Font Awesome](https://fontawesome.com/), or any 
 ### Styles
 
 ```scss
-@import "@material/top-app-bar/mdc-top-app-bar";
-@import "@material/icon-button/mdc-icon-button";
+@import "../mdc-top-app-bar/mdc-top-app-bar";
+@import "../mdc-icon-button/mdc-icon-button";
 ```
 
 ### JavaScript Instantiation

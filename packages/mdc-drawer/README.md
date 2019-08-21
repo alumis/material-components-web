@@ -66,8 +66,8 @@ However, you can also use SVG, [Font Awesome](https://fontawesome.com/), or any 
 ### Styles
 
 ```scss
-@import "@material/drawer/mdc-drawer";
-@import "@material/list/mdc-list";
+@import "../mdc-drawer/mdc-drawer";
+@import "../mdc-list/mdc-list";
 ```
 
 ### JavaScript Instantiation

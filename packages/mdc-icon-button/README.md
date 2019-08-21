@@ -49,7 +49,7 @@ npm install @material/icon-button
 ### Styles
 
 ```scss
-@import "@material/icon-button/mdc-icon-button";
+@import "../mdc-icon-button/mdc-icon-button";
 ```
 
 ### JavaScript Instantiation

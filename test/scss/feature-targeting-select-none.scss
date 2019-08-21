@@ -1,3 +1,3 @@
-@import "@material/feature-targeting/functions";
+@import "../mdc-feature-targeting/functions";
 @import "./feature-targeting-test";
 @include mdc-feature-targeting-test(mdc-feature-any());

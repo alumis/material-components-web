@@ -20,8 +20,8 @@
 // THE SOFTWARE.
 //
 
-@import "@material/ripple/variables";
-@import "@material/theme/variables";
+@import "../mdc-ripple/variables";
+@import "../mdc-theme/variables";
 
 $mdc-checkbox-mark-color: mdc-theme-prop-value(on-primary) !default;
 $mdc-checkbox-border-color: rgba(mdc-theme-prop-value(on-surface), .54) !default;

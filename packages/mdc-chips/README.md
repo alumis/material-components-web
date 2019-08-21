@@ -51,7 +51,7 @@ npm install @material/chips
 ### Styles
 
 ```scss
-@import "@material/chips/mdc-chips";
+@import "../mdc-chips/mdc-chips";
 ```
 
 ### JavaScript Instantiation

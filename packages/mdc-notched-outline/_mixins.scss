@@ -20,10 +20,10 @@
 // THE SOFTWARE.
 //
 
-@import "@material/theme/mixins";
-@import "@material/shape/mixins";
-@import "@material/shape/functions";
-@import "@material/rtl/mixins";
+@import "../mdc-theme/mixins";
+@import "../mdc-shape/mixins";
+@import "../mdc-shape/functions";
+@import "../mdc-rtl/mixins";
 @import "./variables";
 
 @mixin mdc-notched-outline-color($color) {

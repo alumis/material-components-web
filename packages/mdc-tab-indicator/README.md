@@ -41,7 +41,7 @@ npm install @material/tab-indicator
 ### Styles
 
 ```scss
-@import "@material/tab-indicator/mdc-tab-indicator";
+@import "../mdc-tab-indicator/mdc-tab-indicator";
 ```
 
 ### JavaScript Instantiation

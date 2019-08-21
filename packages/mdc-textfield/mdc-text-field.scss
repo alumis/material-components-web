@@ -20,16 +20,16 @@
 // THE SOFTWARE.
 //
 
-@import "@material/animation/variables";
-@import "@material/floating-label/mdc-floating-label";
-@import "@material/line-ripple/mdc-line-ripple";
-@import "@material/notched-outline/mdc-notched-outline";
-@import "@material/ripple/common";
-@import "@material/ripple/mixins";
-@import "@material/rtl/mixins";
-@import "@material/theme/variables";
-@import "@material/typography/mixins";
-@import "@material/typography/variables";
+@import "../mdc-animation/variables";
+@import "../mdc-floating-label/mdc-floating-label";
+@import "../mdc-line-ripple/mdc-line-ripple";
+@import "../mdc-notched-outline/mdc-notched-outline";
+@import "../mdc-ripple/common";
+@import "../mdc-ripple/mixins";
+@import "../mdc-rtl/mixins";
+@import "../mdc-theme/variables";
+@import "../mdc-typography/mixins";
+@import "../mdc-typography/variables";
 @import "./functions";
 @import "./helper-text/mdc-text-field-helper-text";
 @import "./character-counter/mdc-text-field-character-counter";

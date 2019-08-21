@@ -20,13 +20,13 @@
 // THE SOFTWARE.
 //
 
-@import "@material/feature-targeting/functions";
-@import "@material/feature-targeting/mixins";
-@import "@material/theme/functions";
-@import "@material/theme/mixins";
-@import "@material/theme/variables"; // for mdc-theme-prop-value
-@import "@material/typography/mixins";
-@import "@material/rtl/mixins";
+@import "../mdc-feature-targeting/functions";
+@import "../mdc-feature-targeting/mixins";
+@import "../mdc-theme/functions";
+@import "../mdc-theme/mixins";
+@import "../mdc-theme/variables"; // for mdc-theme-prop-value
+@import "../mdc-typography/mixins";
+@import "../mdc-rtl/mixins";
 @import "./variables";
 @import "./keyframes";
 

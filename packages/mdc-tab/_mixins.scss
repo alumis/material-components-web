@@ -20,13 +20,13 @@
 // THE SOFTWARE.
 //
 
-@import "@material/feature-targeting/functions";
-@import "@material/feature-targeting/mixins";
-@import "@material/ripple/mixins";
-@import "@material/theme/mixins";
-@import "@material/typography/mixins";
-@import "@material/rtl/mixins";
-@import "@material/tab-indicator/mixins";
+@import "../mdc-feature-targeting/functions";
+@import "../mdc-feature-targeting/mixins";
+@import "../mdc-ripple/mixins";
+@import "../mdc-theme/mixins";
+@import "../mdc-typography/mixins";
+@import "../mdc-rtl/mixins";
+@import "../mdc-tab-indicator/mixins";
 @import "./variables";
 
 // Public mixins

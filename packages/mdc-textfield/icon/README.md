@@ -42,7 +42,7 @@ However, you can also use SVG, [Font Awesome](https://fontawesome.com/), or any 
 ### Styles
 
 ```scss
-@import "@material/textfield/icon/mdc-text-field-icon";
+@import "../mdc-textfield/icon/mdc-text-field-icon";
 ```
 
 ### JavaScript Instantiation

@@ -43,7 +43,7 @@ npm install @material/tab-scroller
 ### Styles
 
 ```scss
-@import "@material/tab-scroller/mdc-tab-scroller";
+@import "../mdc-tab-scroller/mdc-tab-scroller";
 ```
 
 ### JavaScript Instantiation

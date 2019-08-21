@@ -20,12 +20,12 @@
 // THE SOFTWARE.
 //
 
-@import "@material/animation/functions";
-@import "@material/animation/variables";
-@import "@material/base/mixins";
-@import "@material/feature-targeting/functions";
-@import "@material/feature-targeting/mixins";
-@import "@material/theme/mixins";
+@import "../mdc-animation/functions";
+@import "../mdc-animation/variables";
+@import "../mdc-base/mixins";
+@import "../mdc-feature-targeting/functions";
+@import "../mdc-feature-targeting/mixins";
+@import "../mdc-theme/mixins";
 @import "./functions";
 @import "./keyframes";
 @import "./variables";

@@ -20,8 +20,8 @@
 // THE SOFTWARE.
 //
 
-@import "@material/theme/functions";
-@import "@material/theme/variables"; // for mdc-theme-prop-value() function
+@import "../mdc-theme/functions";
+@import "../mdc-theme/variables"; // for mdc-theme-prop-value() function
 
 $mdc-snackbar-fill-color: mix(mdc-theme-prop-value(on-surface), mdc-theme-prop-value(surface), 80%) !default;
 $mdc-snackbar-label-ink-color: rgba(mdc-theme-prop-value(surface), mdc-theme-text-emphasis(high)) !default;

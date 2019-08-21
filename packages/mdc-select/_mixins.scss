@@ -20,13 +20,13 @@
 // THE SOFTWARE.
 //
 
-@import "@material/floating-label/mixins";
-@import "@material/theme/mixins";
-@import "@material/shape/mixins";
-@import "@material/shape/functions";
-@import "@material/line-ripple/mixins";
-@import "@material/notched-outline/mixins";
-@import "@material/notched-outline/variables";
+@import "../mdc-floating-label/mixins";
+@import "../mdc-theme/mixins";
+@import "../mdc-shape/mixins";
+@import "../mdc-shape/functions";
+@import "../mdc-line-ripple/mixins";
+@import "../mdc-notched-outline/mixins";
+@import "../mdc-notched-outline/variables";
 @import "./icon/mixins";
 @import "./variables";
 

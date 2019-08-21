@@ -51,7 +51,7 @@ npm install @material/card
 ### Styles
 
 ```css
-@import "@material/card/mdc-card";
+@import "../mdc-card/mdc-card";
 ```
 
 In order to remain general-purpose and support e.g. images spanning the full width of the card, MDC Card does not

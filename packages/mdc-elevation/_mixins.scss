@@ -20,9 +20,9 @@
 // THE SOFTWARE.
 //
 
-@import "@material/feature-targeting/functions";
-@import "@material/feature-targeting/mixins";
-@import "@material/theme/variables";
+@import "../mdc-feature-targeting/functions";
+@import "../mdc-feature-targeting/mixins";
+@import "../mdc-theme/variables";
 @import "./variables";
 
 @mixin mdc-elevation-core-styles($query: mdc-feature-all()) {

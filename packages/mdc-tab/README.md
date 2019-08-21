@@ -49,7 +49,7 @@ npm install @material/tab
 ### Styles
 
 ```scss
-@import "@material/tab/mdc-tab";
+@import "../mdc-tab/mdc-tab";
 ```
 
 ### JavaScript Instantiation

@@ -20,15 +20,15 @@
 // THE SOFTWARE.
 //
 
-@import "@material/animation/functions";
-@import "@material/elevation/mixins";
-@import "@material/feature-targeting/functions";
-@import "@material/feature-targeting/mixins";
-@import "@material/rtl/mixins";
-@import "@material/shape/mixins";
-@import "@material/theme/mixins";
-@import "@material/theme/variables"; // for mdc-theme-prop-value
-@import "@material/typography/mixins";
+@import "../mdc-animation/functions";
+@import "../mdc-elevation/mixins";
+@import "../mdc-feature-targeting/functions";
+@import "../mdc-feature-targeting/mixins";
+@import "../mdc-rtl/mixins";
+@import "../mdc-shape/mixins";
+@import "../mdc-theme/mixins";
+@import "../mdc-theme/variables"; // for mdc-theme-prop-value
+@import "../mdc-typography/mixins";
 @import "./variables";
 
 @mixin mdc-dialog-core-styles($query: mdc-feature-all()) {

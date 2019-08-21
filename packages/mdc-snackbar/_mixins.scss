@@ -20,17 +20,17 @@
 // THE SOFTWARE.
 //
 
-@import "@material/feature-targeting/functions";
-@import "@material/feature-targeting/mixins";
-@import "@material/animation/functions";
-@import "@material/button/mixins";
-@import "@material/icon-button/mixins";
-@import "@material/ripple/mixins";
-@import "@material/rtl/mixins";
-@import "@material/typography/mixins";
-@import "@material/elevation/mixins";
-@import "@material/shape/mixins";
-@import "@material/theme/mixins";
+@import "../mdc-feature-targeting/functions";
+@import "../mdc-feature-targeting/mixins";
+@import "../mdc-animation/functions";
+@import "../mdc-button/mixins";
+@import "../mdc-icon-button/mixins";
+@import "../mdc-ripple/mixins";
+@import "../mdc-rtl/mixins";
+@import "../mdc-typography/mixins";
+@import "../mdc-elevation/mixins";
+@import "../mdc-shape/mixins";
+@import "../mdc-theme/mixins";
 @import "./variables";
 
 @mixin mdc-snackbar-core-styles($query: mdc-feature-all()) {

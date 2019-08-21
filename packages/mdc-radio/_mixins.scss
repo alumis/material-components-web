@@ -20,13 +20,13 @@
 // THE SOFTWARE.
 //
 
-@import "@material/animation/functions";
-@import "@material/feature-targeting/functions";
-@import "@material/feature-targeting/mixins";
-@import "@material/ripple/mixins";
-@import "@material/ripple/variables";
-@import "@material/theme/mixins";
-@import "@material/theme/variables";
+@import "../mdc-animation/functions";
+@import "../mdc-feature-targeting/functions";
+@import "../mdc-feature-targeting/mixins";
+@import "../mdc-ripple/mixins";
+@import "../mdc-ripple/variables";
+@import "../mdc-theme/mixins";
+@import "../mdc-theme/variables";
 @import "./functions";
 @import "./variables";
 

@@ -73,7 +73,7 @@ npm install @material/dialog
 ### Styles
 
 ```scss
-@import "@material/dialog/mdc-dialog";
+@import "../mdc-dialog/mdc-dialog";
 ```
 
 > *NOTE*: Styles for any components you intend to include within dialogs (e.g. List, Checkboxes, etc.) must also be

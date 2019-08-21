@@ -21,8 +21,8 @@
 //
 
 @import "../functions";
-@import "@material/rtl/mixins";
-@import "@material/typography/mixins";
+@import "../mdc-rtl/mixins";
+@import "../mdc-typography/mixins";
 
 // postcss-bem-linter: define text-field-character-counter
 
